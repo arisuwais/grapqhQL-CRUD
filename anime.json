@@ -1,0 +1,34 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001
+    },
+    {
+      "id": 2,
+      "title": "Byousoku 5 Centimeter",
+      "director": "Makoto Shinkai",
+      "year": 2007
+    },
+    {
+      "id": 3,
+      "title": "Kotonoha no Niwa",
+      "director": "Makoto Shinkai",
+      "year": 2013
+    },
+    {
+      "id": 4,
+      "title": "Kimi no Nawa",
+      "director": "Makoto Shinkai",
+      "year": 2016
+    },
+    {
+      "title": "Sakurasou no Pet na Kanojo",
+      "director": "TAkashi Murah",
+      "year": 2013,
+      "id": 6
+    }
+  ]
+}
